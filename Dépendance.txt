@@ -1,0 +1,2 @@
+Pour Python :
+pip install pygame opencv-python numpy
